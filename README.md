@@ -2,6 +2,8 @@
 -   [Create React App](https://create-react-app.dev/)
 -   [Three.js](https://threejs.org/)
 
+[https://mc.febriansyah.id](https://mc.febriansyah.id)
+
 ## Rekomendasi sistem
 
 Node.js 18.6 / LTS terbaru
